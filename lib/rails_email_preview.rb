@@ -7,7 +7,6 @@ require 'rails_email_preview/view_hooks'
 
 require 'sass'
 require 'request_store'
-require 'turbolinks'
 require 'pathname'
 
 module RailsEmailPreview

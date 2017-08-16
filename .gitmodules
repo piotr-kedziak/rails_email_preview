@@ -1,3 +1,0 @@
-[submodule "spec/screenshots"]
-	path = spec/screenshots
-	url = https://github.com/glebm/rep_spec_screenshots.git
